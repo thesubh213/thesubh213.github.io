@@ -19,7 +19,7 @@ window.addEventListener('DOMContentLoaded', function() {
       setTimeout(function() {
         loadingBarContainer.style.display = 'none';
         redirectMessage.style.display = 'flex';
-        window.location.href = "https://subh.site";
+        window.location.href = "https://subh.engineer";
       }, 1050);
     }, 1000); 
   }, 2000);
